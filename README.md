@@ -12,12 +12,13 @@ Executed end-to-end manual QA on the Astra WordPress theme and Starter Templates
 ## 🎯 What Was Tested
 | Module | Test Cases | Bugs Found |
 |--------|-----------:|-----------:|
-| Theme Activation / Global Settings | 5 | 1 |
-| Header Builder | 7 | 3 |
-| Footer / Blog Settings | 7 | 1 |
-| Starter Templates Import | 9 | 4 |
-| WooCommerce Integration | 3 | 1 |
-| Responsive / Mobile | 2 | 0 |
+| Theme Activation / Global Settings | 6 | 1 |
+| Header Builder | 6 | 3 |
+| Footer Builder | 3 | 1 |
+| Starter Templates Import | 10 | 4 |
+| WooCommerce Integration | 2 | 1 |
+| Typography Boundary | 1 | 0 |
+| Mobile / Child Theme Regression | 2 | 0 |
 
 ## 🔴 Critical Defects Identified
 | ID | Title | Severity |
