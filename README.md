@@ -1,5 +1,5 @@
-# 🎨 WordPress Astra Theme — Manual QA Portfolio
-### Astra Theme 4.x + Starter Templates Plugin — Full Manual QA Cycle
+# 🎨 WordPress Astra Theme — Manual QA Test Suite
+### Astra Theme 4.x + Starter Templates Plugin — Test Plan, Scenarios, Test Cases, Defects, RTM
 
 [![Test Cases](https://img.shields.io/badge/Test%20Cases-30-blue)]()
 [![Bugs Found](https://img.shields.io/badge/Bugs%20Found-10-red)]()
@@ -7,7 +7,7 @@
 [![Platform](https://img.shields.io/badge/Platform-WordPress%206.5-green)]()
 
 ## 📌 Project Summary
-Executed end-to-end manual QA on the Astra WordPress theme and Starter Templates plugin across theme activation, global settings, header/footer builder, template import, WooCommerce integration, and responsive behaviour. Testing used both clean WordPress and existing-content environments to expose real-world data integrity risk.
+Executed end-to-end manual QA on the Astra WordPress theme and Starter Templates plugin and documented the complete QA artifact set: test plan, high-level scenarios, manual test cases, defect reports, exploratory charters, requirements traceability matrix, and final test summary report. Testing used both clean WordPress and existing-content environments to expose real-world data integrity risk.
 
 ## 🎯 What Was Tested
 | Module | Test Cases | Bugs Found |
