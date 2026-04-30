@@ -55,5 +55,10 @@ Starter Templates full-site import on an existing WordPress site can overwrite e
 | Loom | Screen recording for defect evidence |
 | Lighthouse | Manual performance and Core Web Vitals audit |
 
+## 🔗 See Also
+- [E-Commerce QA Suite](https://github.com/Mruunalll/ecommerce-manual-qa-test-suite)
+- [AI Application QA Suite](https://github.com/Mruunalll/ai-application-qa-test-suite)
+- [SureForms Plugin QA + Automation](https://github.com/Mruunalll/SureForms-Plugin-Test-Suite-Manual-Automation)
+
 ## 👤 Author
 **Mrunal** | Manual QA Engineer | [GitHub](https://github.com/Mruunalll)
